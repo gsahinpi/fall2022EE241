@@ -22,23 +22,23 @@
 
 module nonblock(input a,input b,input sel,input clk, output out    );
 //reg result;
-reg out;
+reg outwire;
 always @ (posedge clk)// always @ *
 begin
 if (sel)
   begin
    //result=b;
-   out<=b;
+   outwire<=b;
   end
   else
    begin
   //result=a;
-  out<=a;
+  outwire<=a;
     end
   
 end//end always
  
- //assign out=result;
+ assign out=outwire;
 
 
 
