@@ -1,7 +1,7 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../behavcorrected.srcs/sources_1/new/swap.v" \
-"../../../../behavcorrected.srcs/sim_1/new/testswap.v" \
+"../../../../behavcorrected.srcs/sources_1/new/nonblocking.v" \
+"../../../../behavcorrected.srcs/sim_1/new/testnonblocking.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"

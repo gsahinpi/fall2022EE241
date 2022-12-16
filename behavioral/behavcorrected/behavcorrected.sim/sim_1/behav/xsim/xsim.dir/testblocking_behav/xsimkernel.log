@@ -1,7 +1,7 @@
-Running: xsim.dir/testblocking_behav/xsimk.exe -simmode gui -wdb testblocking_behav.wdb -simrunnum 0 -socket 53646
+Running: xsim.dir/testblocking_behav/xsimk.exe -simmode gui -wdb testblocking_behav.wdb -simrunnum 0 -socket 51767
 Design successfully loaded
-Design Loading Memory Usage: 8500 KB (Peak: 8500 KB)
+Design Loading Memory Usage: 7828 KB (Peak: 7828 KB)
 Design Loading CPU Usage: 0 ms
 Simulation completed
-Simulation Memory Usage: 9072 KB (Peak: 9072 KB)
+Simulation Memory Usage: 8396 KB (Peak: 8396 KB)
 Simulation CPU Usage: 0 ms
