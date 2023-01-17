@@ -1,0 +1,7 @@
+Running: xsim.dir/GreaterSim_behav/xsimk.exe -simmode gui -wdb GreaterSim_behav.wdb -simrunnum 0 -socket 50350
+Design successfully loaded
+Design Loading Memory Usage: 7792 KB (Peak: 7792 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 8300 KB (Peak: 8300 KB)
+Simulation CPU Usage: 31 ms

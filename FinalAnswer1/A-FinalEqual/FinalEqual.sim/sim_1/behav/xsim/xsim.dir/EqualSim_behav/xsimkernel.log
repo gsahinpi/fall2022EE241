@@ -1,0 +1,7 @@
+Running: xsim.dir/EqualSim_behav/xsimk.exe -simmode gui -wdb EqualSim_behav.wdb -simrunnum 0 -socket 50329
+Design successfully loaded
+Design Loading Memory Usage: 7164 KB (Peak: 7164 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 7664 KB (Peak: 7664 KB)
+Simulation CPU Usage: 31 ms

@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../fin2022fllq2sln.srcs/sources_1/new/datapath.v" \
+"../../../../fin2022fllq2sln.srcs/sources_1/new/dataregister.v" \
+"../../../../fin2022fllq2sln.srcs/sim_1/new/dptest.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

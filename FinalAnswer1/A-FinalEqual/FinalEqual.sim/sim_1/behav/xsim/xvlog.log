@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alican/FinalEqual/FinalEqual.srcs/sources_1/new/Equal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Equal
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alican/FinalEqual/FinalEqual.srcs/sim_1/new/EqualSim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EqualSim
